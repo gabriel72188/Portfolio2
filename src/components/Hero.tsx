@@ -30,8 +30,8 @@ export const Hero = () => {
             </Button>
             <Button size="lg" variant="outline" className="border-border hover:bg-secondary">
                 <a 
-                  href="/CV_Gabriel_Monroy.pdf" 
-                  download="CV_Gabriel_Monroy.pdf" 
+                  href="/CVespañol.pdf" 
+                  download="CVespañol.pdf" 
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"
