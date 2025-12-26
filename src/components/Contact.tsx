@@ -18,7 +18,7 @@ export const Contact = () => {
         "service_fo5pvic", 
         "template_tugkpir",
         formRef.current,
-        "8-O8nP7hD09GGj7OZ"
+        "8-O8nP7hD09GG"
       )
       .then(
         () => {
